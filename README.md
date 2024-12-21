@@ -24,3 +24,19 @@ I am determined to ensure the perpetrator of this phishing scam is held accounta
 **Scam Methods Used:** Pretending to be from Lehman College IT (Information Technology) Department
 
 **Social Media Communication:** Scammers use the app called "Messages". 
+
+**Name:** Federal Trade Commission (FTC)
+**Date Filed:** December 5th, 2024 at 11:58PM
+**FTC Report Number:** 181018188
+
+**Name:** Better Business Bureau (BBB):
+**Date Filed:** December 11th, 2024 at 3:06PM
+**Reference Website:** https://www.bbb.org/scamtracker/lookupscam/920489    
+
+**Name:** FBI's Internet Crime Complaint Center (IC3)
+**Date Filed:** December 15th, 2024 at 10:19PM
+**Submission ID:** c3f279728a484aa09fba0e338a5da2f5
+
+**Name:** Bronx District Attorney
+**Date Filed:** December 20th 2024 at 1:06 PM
+**Correspondence Number:** 1-1-5072046
