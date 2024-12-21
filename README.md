@@ -14,9 +14,6 @@ This incident has been deeply distressing. My Lehman College email is vital for 
 
 I am determined to ensure the perpetrator of this phishing scam is held accountable to the fullest extent of the law. This deliberate act of cybercrime not only caused significant personal distress and disrupted my academic and professional life, but also represents a serious violation of trust and security. I trust that the authorities will thoroughly investigate this matter, prosecute the offender(s), and take necessary measures to prevent similar incidents from occurring in the future, protecting others from such malicious acts.
 
-# Here's the link that you must visit:
-# https://www.bbb.org/scamtracker/lookupscam/920489
-
 # Technical Details for more additional Information:
 
 **The Type of Information Requested for fradulent link to website, but I do not have it:** College account user name, College account password, name, phone number, and others. 
@@ -25,18 +22,10 @@ I am determined to ensure the perpetrator of this phishing scam is held accounta
 
 **Social Media Communication:** Scammers use the app called "Messages". 
 
-**Name:** Federal Trade Commission (FTC)
-**Date Filed:** December 5th, 2024 at 11:58PM
-**FTC Report Number:** 181018188
+**Name:** Federal Trade Commission (FTC) <br /> **Date Filed:** December 5th, 2024 at 11:58PM <br /> **FTC Report Number:** 181018188
 
-**Name:** Better Business Bureau (BBB):
-**Date Filed:** December 11th, 2024 at 3:06PM
-**Reference Website:** https://www.bbb.org/scamtracker/lookupscam/920489    
+**Name:** Better Business Bureau (BBB) <br /> **Date Filed:** December 11th, 2024 at 3:06PM <br /> **Reference Website:** https://www.bbb.org/scamtracker/lookupscam/920489    
 
-**Name:** FBI's Internet Crime Complaint Center (IC3)
-**Date Filed:** December 15th, 2024 at 10:19PM
-**Submission ID:** c3f279728a484aa09fba0e338a5da2f5
+**Name:** FBI's Internet Crime Complaint Center (IC3) <br /> **Date Filed:** December 15th, 2024 at 10:19PM <br /> **Submission ID:** c3f279728a484aa09fba0e338a5da2f5
 
-**Name:** Bronx District Attorney
-**Date Filed:** December 20th 2024 at 1:06 PM
-**Correspondence Number:** 1-1-5072046
+**Name:** Bronx District Attorney <br /> **Date Filed:** December 20th 2024 at 1:06 PM <br /> **Correspondence Number:** 1-1-5072046
